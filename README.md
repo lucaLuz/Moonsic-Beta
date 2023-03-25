@@ -1,6 +1,6 @@
-# Audio Player Using React Native (Expo)
+# Reprodutor de Audio usando React Native (Expo)
 
-This is the complete audio player app built with Expo React Native.
+Este projeto ainda esta em andamento 
 
 This app is made for reading local audio files from your device and play them inside it.
 
